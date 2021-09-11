@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../my_app/.dart_tool"
+		}
+	],
+	"settings": {}
+}
